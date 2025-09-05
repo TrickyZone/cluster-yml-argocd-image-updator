@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - muzakkirsaifi/weathear-app:v2.1
